@@ -121,3 +121,25 @@ button.signup1 {
 .container p {
     color: #333b45;
 }
+.quote {
+    background-color: #e5e7eb;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 64px;
+}
+
+.inspire {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: light;
+    color: #1f2937;
+    width: 50%;
+}
+
+.quote p {
+    font-weight: bold;
+    margin-left: 50%;
+    font-size: 18px;
+}
